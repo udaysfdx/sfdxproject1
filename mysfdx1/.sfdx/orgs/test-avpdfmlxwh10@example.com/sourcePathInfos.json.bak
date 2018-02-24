@@ -1,0 +1,114 @@
+[
+    [
+        "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519453976911,
+            "changeTime": 1519453976911,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519453976912,
+            "changeTime": 1519453976912,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519455931360,
+            "changeTime": 1519455931360,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
+        }
+    ],
+    [
+        "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519453976913,
+            "changeTime": 1519453976913,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519454227170,
+            "changeTime": 1519454227170,
+            "contentHash": "43b4b69d3178041751fe870f4db86d35076cccf7",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1519455931363,
+            "changeTime": 1519455931363,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main\\default\\classes\\HelloWorld.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main\\default\\classes\\HelloWorld.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 26,
+            "modifiedTime": 1519455931373,
+            "changeTime": 1519455931373,
+            "contentHash": "7da36da2a66c7db3230031b575826e039c13fa7d"
+        }
+    ],
+    [
+        "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\uday_boosa\\Application Data\\Salesforce IDE\\workspace\\mysfdx1\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519455931372,
+            "changeTime": 1519455931372,
+            "contentHash": "57325e53cc70a4f00cfad981c15b572c6c83b9c4"
+        }
+    ]
+]
